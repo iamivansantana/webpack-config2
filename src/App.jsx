@@ -5,8 +5,8 @@ import logo from './icon-ghost.svg';
 const App = () => {
 	return (
 		<div className='app'>
-			<h1>Hola React From Webpack!!!</h1>
-			<img src={logo} width='25' alt='ghost logo' />
+			<h1>Este es el primer cambio!!!</h1>
+			<img src={logo} width='50' alt='ghost logo' />
 		</div>
 	);
 };
