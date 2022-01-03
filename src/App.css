@@ -6,7 +6,7 @@
 	font-family: sans-serif;
 	font-size: 1rem;
 	color: rgb(0, 131, 192);
-	background: url('./GHOST2.png') no-repeat;
+	background: url('../public/assets/GHOST2.png') no-repeat;
 	background-size: cover;
 	height: 100vh;
 }
